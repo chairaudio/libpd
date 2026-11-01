@@ -3,4 +3,5 @@
 	url = https://github.com/nettoyeurny/opensl_stream.git
 [submodule "pure-data"]
 	path = pure-data
-	url = https://github.com/pure-data/pure-data.git
+	url = https://github.com/chairaudio/pure-data.git
+	branch = chair/delreadsinc-0.56-5
